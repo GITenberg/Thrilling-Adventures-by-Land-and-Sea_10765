@@ -1,0 +1,25 @@
+_repo: Thrilling-Adventures-by-Land-and-Sea_10765
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brayman, James O.
+    birthdate: 1815
+    deathdate: 1887
+    gutenberg_agent_id: '3671'
+    url: http://www.gutenberg.org/2009/agents/3671
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Adventure and adventurers'
+- GITenberg
+title: Thrilling Adventures by Land and Sea
+url: http://www.gutenberg.org/ebooks/10765
