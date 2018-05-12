@@ -1,5 +1,8 @@
 _repo: Thrilling-Adventures-by-Land-and-Sea_10765
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brayman, James O.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '3671'
     url: http://www.gutenberg.org/2009/agents/3671
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10765#Thrilling-Adventures-by-Land-and-Sea
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
